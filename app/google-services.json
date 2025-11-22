@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494446932568",
+    "project_id": "zuv-wku",
+    "storage_bucket": "zuv-wku.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494446932568:android:b4ef5c2090a9d086ddd02d",
+        "android_client_info": {
+          "package_name": "com.example.zuv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdsqhO6a9bzzw8kgHGnFrVJsYLBrQAv_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
